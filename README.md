@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! I'm Jeff Mutembei 👋</h1>
 
 <p align="center">
-  🚀 Web Developer | Full Stack Dev | UI/UX Enthusiast | Passion for IT
+  🚀 Web Developer | Full Stack Dev | UI/UX Enthusiast | IT Profession
 </p>
 <p align="center">
   🌍 Based in Nairobi, Kenya
@@ -11,9 +11,9 @@
 
 ## 🌟 About Me
 
-💡 Passionate **Frontend Developer** with experience in **React.js, Next.js, and modern UI frameworks**. I love building **responsive, accessible, and visually appealing** applications. Also interested in **data analysis, automation, and UI/UX design**.
+💡 Passionate **Full-stack Developer** with experience in **React.js, Next.js, Nest.js, and modern UI frameworks**. I love building **responsive, accessible, and visually appealing** applications. Also interested in **data analysis, automation, AI, and UI/UX design**.
 
-🤔 I enjoy **designing intuitive user interfaces**, optimizing performance, and **collaborating** to solve real-world problems.
+🤔 I enjoy **building digital solutions**, **designing intuitive user interfaces**, **optimizing performance**, and **collaborating** to solve real-world problems.
 
 ---
 
@@ -58,4 +58,4 @@
 
 ## ⚡ Fun Fact
 
-😄 I love exploring **new technologies, creative UI/UX trends, and data-driven solutions!**
+😄 I love exploring **New technologies, creative UI/UX trends, and data-driven solutions!**
